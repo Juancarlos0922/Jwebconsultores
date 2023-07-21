@@ -64,7 +64,7 @@ const Navbar = ({ lr, nr, theme }) => {
               </span>
               <div className="dropdown-menu">
                 <Link href="/home/home1-dark">
-                  <a className="dropdown-item">Main Home</a>
+                  <a className="dropdown-item">Clon de Google</a>
                 </Link>
                 <Link href="/home/home2-dark">
                   <a className="dropdown-item">Creative Studio</a>
